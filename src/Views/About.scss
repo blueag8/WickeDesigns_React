@@ -1,0 +1,23 @@
+.Naomi {
+  height: 350px;
+  width:  350px;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  overflow: hidden; 
+}
+
+img {
+  height: 350px;
+  position: relative;
+  bottom: 60px;
+}
+
+.img-container {
+  top: 20%;
+  left: 25%;
+  height: 250px;
+  width: 250px;
+  border: solid 5px;
+  position: absolute;
+}

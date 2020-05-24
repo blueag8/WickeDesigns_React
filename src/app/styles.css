@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(to top, grey, white);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+html {
+  height: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+.App {
+  position: absolute;
+  display: -webkit-inline-flex;
+}
